@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+
+}
+.box1{
+    height: 200px;
+    width: 200px;
+    /* box-sizing: border-box; */
+    background-color: orange;
+}
+.box2 {
+    height: 200px;
+    width: 200px;
+    /* box-sizing: border-box; */
+    background-color: red;
+}
