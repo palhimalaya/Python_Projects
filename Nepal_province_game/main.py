@@ -16,7 +16,7 @@ turtle.shape(image)
 #
 # turtle.mainloop()
 
-data = pandas.read_csv("nepal_cor.csv")
+data = pandas.read_csv("nepalcor.csv")
 all_province = data.province.to_list()
 print(all_province)
 answered_province = []
